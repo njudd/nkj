@@ -42,7 +42,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     # If name is not set, author is used
     name = "Nicholas Judd"
     # Avatars can be written to images/avatars/
-    avatar = "njudd.jpg"
+    avatar = "njudd2.jpg"
     position = "PhD Student"
     livesIn = "Stockholm, Sweden"
 
