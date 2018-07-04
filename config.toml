@@ -8,7 +8,7 @@ theme = "hugo-identity-theme-master"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
 
 # Enter your tracking code to enable Google Analytics
-#googleAnalytics = "UA-XXXXX-Y"
+#googleAnalytics = "UA-121727311-1"
 
 [params]
 
