@@ -120,6 +120,12 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     link = "https://github.com/njudd"
     target = "_blank"
 
+#  [[params.social]]
+#    title = "Mail"
+#    icon = "fa-email"
+#    link = "contact@njudd.com"
+#    target = "_blank"
+
   [params.footer]
     # If copyright is not set, author is used
     copyright = "njudd"
