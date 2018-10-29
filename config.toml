@@ -35,7 +35,7 @@ googleAnalytics = "UA-121727311-1"
   # Overwrite FontAwesome: see icons.css
   #custom_icons = true
   # Overwrite background: see background.css
-  custom_background = true
+  #custom_background = true
 
   # Personal data
   [params.personal]
